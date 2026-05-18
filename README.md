@@ -6,6 +6,6 @@ The [example](example) folder contains all the files for a JRUCS Alchemy card.  
 
 We use [Gemini Nano Banana 2](https://gemini.google/overview/image-generation/) to turn that idea into an image.  Sometimes it's a one shot.  Others it requires a bit of arguing to persuade the AI to make the right thing.  AIs anchor, so restarting from scratch is sometimes neccesary.
 
-We clean the image up in Adobe Photoshop.  Finally we use Adobe Illustrator to drop the new card front onto the print template.  This includes the card back.
+We clean the image up in Adobe Photoshop.  Then we resize to Tarot card size.  That is 2.75" by 4.75".  The resulting image is over 500 DPI.  Finally we use Adobe Illustrator to drop the new card front onto the print template.  This includes the card back.
 
 These are the same files we use to print.  We license this openly in the hope you will make really neat cards yourself and share them broadly.  If you'd be kind enough to use the GitHub fork feature, others will be able to easily explore what you create.
